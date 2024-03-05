@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **learning cybersecurity**
 
-- 🌱 I’m currently learning **linux**
+- 🌱 I’m currently learning **JAVA**
 
-- 💻 My hobbies are **Gaming, working out,playing piano and learning new things**
+- 💻 My hobbies are **Gaming, working out,playing piano, breakdancing and learning new things**
 
-- 🤝 I’m looking for help with **finding an internship**
+- 🤝 I’m looking for help with **finding a job**
 
 - 💬 Ask me **anything**
 
