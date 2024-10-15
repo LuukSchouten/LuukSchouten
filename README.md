@@ -10,7 +10,7 @@
 
 - 💻 My hobbies are **Gaming, working out,playing piano, breakdancing and learning new things**
 
-- 🤝 I’m looking for help with **finding a job**
+- 🤝 I’m looking for help with **Learning new languages**
 
 - 💬 Ask me **anything**
 
