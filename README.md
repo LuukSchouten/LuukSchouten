@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luuk Schouten</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Software developer / Junior SOC Specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luukschouten&label=Profile%20views&color=0e75b6&style=flat" alt="luukschouten" /> </p>
