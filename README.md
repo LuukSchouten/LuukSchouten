@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💻 My hobbies are **Gaming, working out,playing piano, breakdancing and learning new things**
+- 💻 My hobbies are **Gaming, working out, playing piano, breakdancing, snowboarding and learning new things**
 
 - 🤝 I’m looking for help with **Learning new languages**
 
